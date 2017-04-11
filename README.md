@@ -6,7 +6,7 @@ Android自定义View-小米MIUI8天气动画（晴天）
 我们先来看看实现后的效果：
 **正常模式：**
 
-<center>![img1](http://p1.bpimg.com/567571/062455b37ee26f28.gif)</center>
+<center>![img1](http://i2.muimg.com/567571/062455b37ee26f28.gif)</center>
 
 
 **View跟随手机摇晃后移动：**
